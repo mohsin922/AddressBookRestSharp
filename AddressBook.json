@@ -1,0 +1,26 @@
+{
+    "Contacts": [
+      {
+        "id": 1,
+        "firstname": "Mohsin",
+        "lastname": "Zahoor",
+        "PhoneNumber": "7568974156",
+        "address": "Kunzer",
+        "city": "Srinagar",
+        "state": "Jammu And Kashmir",
+        "zip": "193404",
+        "email": "mohsin@gmail.com"
+      },
+      {
+        "id": 2,
+        "firstname": "Zuhaib",
+        "lastname":"Haroon",
+        "PhoneNumber": "999686248",
+        "address": "Mandarbagh",
+        "city": "Srinagar",
+        "state": "Jammu And Kashmir",
+        "zip": "876105",
+        "email": "zuhaib@gmail.com"
+      }    
+    ]
+  }
